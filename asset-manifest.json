@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/tailwind-dashboard/static/css/main.340a3a44.chunk.css",
+    "main.js": "/tailwind-dashboard/static/js/main.da143d5d.chunk.js",
+    "main.js.map": "/tailwind-dashboard/static/js/main.da143d5d.chunk.js.map",
+    "runtime~main.js": "/tailwind-dashboard/static/js/runtime~main.9e951e77.js",
+    "runtime~main.js.map": "/tailwind-dashboard/static/js/runtime~main.9e951e77.js.map",
+    "static/js/2.c04ed867.chunk.js": "/tailwind-dashboard/static/js/2.c04ed867.chunk.js",
+    "static/js/2.c04ed867.chunk.js.map": "/tailwind-dashboard/static/js/2.c04ed867.chunk.js.map",
+    "index.html": "/tailwind-dashboard/index.html",
+    "precache-manifest.e0f6c939cd86f3972d35948aa0d1f6e0.js": "/tailwind-dashboard/precache-manifest.e0f6c939cd86f3972d35948aa0d1f6e0.js",
+    "service-worker.js": "/tailwind-dashboard/service-worker.js",
+    "static/css/main.340a3a44.chunk.css.map": "/tailwind-dashboard/static/css/main.340a3a44.chunk.css.map"
+  }
+}
