@@ -7,3 +7,7 @@
 #### Light mode
 
 ![Light mode](./light-mode.png)
+
+### To Run the Project:
+- Clone this Repo
+- run `npm start`
